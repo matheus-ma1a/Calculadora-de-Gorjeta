@@ -17,7 +17,7 @@ A **Calculador de Gorjeta** é uma aplicação desenvolvida na minha série de e
 ## Front end
 - ReactJS
 
-# Autores
+# Autore
 
 
 **https://www.linkedin.com/in/matheus-santos-maia/**
