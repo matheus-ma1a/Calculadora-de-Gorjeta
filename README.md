@@ -1,5 +1,5 @@
-# Pedido de Namoro
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/peterson2003/pedido-de-namoro/blob/master/LICENSE)
+# Calculadora de gorjeta
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheus-ma1a/Calculadora-de-Gorjeta/blob/main/LICENSE)
 
 # Sobre o projeto:
 
