@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  font-size: 2.5rem;
+  
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  border: solid;
+  border-radius: 10px;
+  padding: 20px;
+  background: rgba( 180, 18, 18, 0.05 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+input{
+  height: 30px;
+  width: 300px;
+  border: none;
+  box-shadow: 0 8px 10px 0 rgba( 31, 38, 135, 0.37 );
+  font-weight: bold;
+  font-size: larger;
+  border-radius: 8px;
+  padding: 5px;
+  padding-left: 10px;
+
+}
+
+.separator{
+  height: 2px;
+  width: 400px;
+  background-color: #ffffff;
+  margin: 20px 0px;
+}
+
+h2{
+  line-height: 1px;
+}
+
+p{
+  font-size: 22px;
+}
+
+mark{
+  background-color: rgba( 31, 38, 135, 0.37 );
+  border-radius: 6px;
+  padding: 4px;
+  box-shadow: 2px 2px;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+  appearance: none;
+}
